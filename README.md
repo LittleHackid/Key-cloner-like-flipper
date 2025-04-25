@@ -8,4 +8,4 @@ hay errores visibles como:
 * La linea de abajo se mueve con la de arriba
 
   
-<img src="RECURSOS/Version010.png" width="200" alt="version010">
+<img src="[RECURSOS/Version010.png](https://github.com/LittleHackid/Key-cloner-like-flipper/blob/main/media/Version010.jpg)" width="200" alt="version010">
