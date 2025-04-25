@@ -8,4 +8,4 @@ hay errores visibles como:
 * La linea de abajo se mueve con la de arriba
 
   
-<img src="RECURSOS/media/Version010.jpg" width="200" alt="version010">
+<img src="media/Version010.jpg" width="200" alt="version010">
