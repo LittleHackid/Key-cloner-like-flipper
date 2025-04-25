@@ -5,4 +5,7 @@ https://www.Apashura2.com entra a mi pagina, no tiene nada que ver con el proyec
 
 hay errores visibles como: 
 * El rectangulo que mide las secciones
-* La linea de abajo se mueve con la de arriba 
+* La linea de abajo se mueve con la de arriba
+
+  
+<img src="RECURSOS/Version010.png" width="200" alt="version010">
