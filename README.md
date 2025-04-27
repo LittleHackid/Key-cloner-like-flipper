@@ -15,4 +15,4 @@ Detalles a implementar:
 
 <h3> <p align="center">Versión 0.2.8</p> </h3>
   
-<img align="center" src="media/imagen_2025-04-27_005156102.png" width="900" alt="version010" >
+<img align="center" src="media/imagen_2025-04-27_005156102.png" width="900" alt="version028" >
