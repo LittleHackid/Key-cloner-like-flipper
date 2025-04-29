@@ -5,7 +5,7 @@ planeo que sea un port del key cloner del flipper zero, que copia llaves física
 https://www.Apashura2.com entra a mi pagina, no tiene nada que ver con el proyecto
 
 se implementaron:
-* Botón para cambiar el tamaño del bit (estoy trabajando con los picos de las llaves, luego será por defecto
+* Botón para cambiar el tamaño del bit (estoy trabajando con los picos de las llaves, luego será por defecto)
 * Los botones ya tienen su identificador visible
 * Tamaño de llave mejorado
 
